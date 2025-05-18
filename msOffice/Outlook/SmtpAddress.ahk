@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Outlook/SmtpAddress.ahk
+; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script resolves an exchange user's display name to a SMTP address.
 ; An email is open in an Inspector window for this example.
 
