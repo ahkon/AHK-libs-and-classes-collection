@@ -1,6 +1,6 @@
 ; By kon
 ; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Office_2010_Constants_(global).ahk
-; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
 
 ﻿; Made with OfficeInfo - https://autohotkey.com/boards/viewtopic.php?f=6&p=113884
 _xlDialogChartSourceData:=541
