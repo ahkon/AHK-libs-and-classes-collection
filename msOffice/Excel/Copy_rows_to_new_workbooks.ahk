@@ -1,6 +1,6 @@
 ; By kon
 ; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Copy_rows_to_new_workbooks.ahk
-; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
 
 ﻿; This script copies rows from one workbook into new workbooks. This was originally made for an "Ask for Help" question
 ; posted at: https://autohotkey.com/boards/viewtopic.php?f=5&t=34083
