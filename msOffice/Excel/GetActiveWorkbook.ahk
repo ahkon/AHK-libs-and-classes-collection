@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/GetActiveWorkbook.ahk
+; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script demonstrates getting a reference to the active workbook if more than one Excel Application is open. 
 ; The GetActiveObjects function is required. (Paste it into this script or #Include it.)
 ; GetActiveObjects - http://ahkscript.org/boards/viewtopic.php?f=6&t=6494
