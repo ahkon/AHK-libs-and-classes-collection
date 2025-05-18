@@ -1,6 +1,6 @@
 ; By kon
 ; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Borders_and_other_formatting.ahk
-; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
 
 ﻿; This script copies example data from an object into a SafeArray. The SafeArray is then assigned to a Range in Excel.
 ; Some formatting is then added such as bold text, column widths and borders.
