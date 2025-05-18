@@ -1,6 +1,6 @@
 ; By kon
 ; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/For-loop_worksheets_and_cells.ahk
-; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
 
 ﻿; This script opens a workbook and then loops through each sheet. Within each sheet, it finds the last non-blank cell in
 ; column A. It then loops through each cell in the Range from A1 to the last cell.
