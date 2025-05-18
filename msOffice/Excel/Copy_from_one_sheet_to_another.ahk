@@ -1,6 +1,6 @@
 ; By kon
 ; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Copy_from_one_sheet_to_another.ahk
-; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
 
 ﻿; Usage:
 ;   Win+7 hotkey  - Assigns the active cell to the same address on Sheet2.
