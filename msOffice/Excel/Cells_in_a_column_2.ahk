@@ -1,6 +1,6 @@
 ; By kon
 ; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Excel/Cells_in_a_column_2.ahk
-; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
 
 ﻿; This script gets a range of cells in column A and B. (Like selecting cell A2 and then pressing Ctrl+Shift+Down and
 ; then Shift+Right.) Then each time the Ctrl+F12 hotkey is pressed it sends the next value.
