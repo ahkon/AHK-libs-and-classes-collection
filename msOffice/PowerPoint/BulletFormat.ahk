@@ -1,3 +1,7 @@
+; By kon
+; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/PowerPoint/BulletFormat.ahk
+; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+
 ﻿; This script will change bullets to a check marks in the selected row(s) of text.
 
 ; Usage:
