@@ -1,6 +1,6 @@
 ; By kon
 ; Taken from - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/Examples/Word/CommandBars.ahk
-; Liscence - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
+; License - https://github.com/ahkon/MS-Office-COM-Basics/blob/master/LICENSE
 
 ﻿; This script shows some actions using CommandBars and CommandBarControl objects. Use the F7 hotkey to display the
 ; available controls. Then use FindControl, as shown with the F9 and F10 hotkeys below, to execute a control action. The
